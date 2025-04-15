@@ -14,7 +14,7 @@ import (
 )
 
 const (
-    serverPassword = "nym2onioncourier" // Set your desired server password here
+    serverPassword = "secretPassword" // Set your desired server password here
     maxFileSize    = 4096 * 1024          // 4096 KB in bytes
 )
 
